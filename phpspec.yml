@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: Foro
+        psr4_prefix: Foro
+        src_path: app

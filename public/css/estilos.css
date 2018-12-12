@@ -1,0 +1,97 @@
+.author {
+	color: #337ab7;
+}
+
+.minimal {
+	height: 50px;
+}
+
+.logo-ad {
+	max-height: 100px;
+}
+
+.ad-space {
+	height: 10px;
+}
+
+.ads {
+	border: solid 1px #5bc0de;
+	margin: 10px 30px;
+	border-radius: 10px;
+	padding: 10px;
+}
+
+body {
+	margin-bottom: 80px;
+}
+
+.form {
+	padding: 10px;
+}
+
+.comment-pic {
+	max-width: 70px;
+	max-height: 70px;
+}
+
+.post-pic {
+	max-width: 150px;
+	max-height: 150px;
+}
+
+.btn-post {
+	padding-left: 0px;
+}
+
+.profile-pic {
+	max-height: 150px;
+	max-width: 150px;
+}
+
+.media-left {
+	padding-top: 20px;
+}
+
+.header-logo {
+
+	max-width: 200px;
+	max-height: 200px;
+
+}
+
+.space-box {
+	margin-top: 5%;
+}
+
+.panel-primary {
+  border-color: #5bc0de;
+}
+.panel-primary > .panel-heading {
+  color: #fff;
+  background-color: #5bc0de;
+  border-color: #5bc0de;
+}
+.panel-primary > .panel-heading + .panel-collapse > .panel-body {
+  border-top-color: #5bc0de;
+}
+.post-pic {
+	max-width: 500px;
+	max-height: 500px;
+}
+.profiles {
+	height: 200px;
+}
+
+.category-pic {
+	max-height: 40px;
+	margin-top: -10px;
+}
+
+.category-title {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+footer {
+	background-color: #ffffff;
+}
